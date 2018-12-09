@@ -1,5 +1,5 @@
 # advent-of-c
-Advent of Code problems, solved in C.
+[Advent of Code](https://adventofcode.com/2018) problems, solved in C.
 
 ## TODO
 
